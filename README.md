@@ -63,3 +63,12 @@ Copy
 </div>
 
 -->
+
+<div align="center">
+<br>
+<sup>UM6P / 42</sup>
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amwadud) &nbsp;[![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/harunnoir)
+
+</div>
