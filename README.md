@@ -68,7 +68,8 @@ Copy
 <br>
 <sup>UM6P / 42</sup>
 <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amwadud)
+<a href="https://harunnoir.github.io/website">harunnoir.github.io/website</a>
 <br><br>
 <sub><i>simple by default.</i></sub>
+<br>
 </div>
