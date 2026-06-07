@@ -41,6 +41,6 @@
 
 <a href="https://harunnoir.github.io/website">harunnoir.github.io/website</a>
 <br><br>
-<sub><i>simple by default.</i></sub>
+<sub><i>Don't forget to check my social media links...</i></sub>
 <br>
 </div>
