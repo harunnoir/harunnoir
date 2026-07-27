@@ -1,31 +1,7 @@
 <div align="center">
-
-<br>
-
-# harunnoir
-
-<sup>UM6P × 42 · Morocco</sup>
-
-<br>
-
-### Somewhere between low-level code and high-level ideas.
-
-<br>
-
-`build`   `break`   `learn`   `repeat`
-
-<br><br>
-
-<a href="https://harunnoir.github.io/website">
-  <strong>harunnoir.github.io/website ↗</strong>
-</a>
-
-<br><br>
-
-<sub>
-Less noise. Better work.
-</sub>
-
-<br><br>
-
+  <br>
+  I have always liked doors that lead nowhere, maps with missing places, and questions that become less clear the longer you think about them. This page is not an answer to anything. It is simply a small record of the things I found interesting enough not to forget.
+  <br><br>
+  <a href="https://harunnoir.github.io/website">harunnoir.github.io/website</a>
+  <br>
 </div>
